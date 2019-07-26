@@ -1,0 +1,24 @@
+Package: unicefdata
+Title: Small UNICEF Dataset for Tutorial Purposes
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Greg",
+           family = "Wilson",
+           role = c("aut", "cre"),
+           email = "gvwilson@third-bit.com",
+           comment = c(ORCID = "0000-0001-8659-8979"))
+Description: This package demonstrates how to share small datasets in R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Depends:
+    R (>= 2.10)
+Imports:
+    readr (>= 1.1.0),
+    dplyr (>= 0.8.0),
+    magrittr (>= 1.5.0),
+    purrr (>= 0.3.0),
+    rlang (>= 0.4.0),
+    stringr (>= 1.4.0),
+    tidyr (>= 0.8.3)
