@@ -4,9 +4,9 @@
 \name{unicefdata}
 \alias{unicefdata}
 \alias{unicefdata-package}
-\title{Clean up and share some data from UNICEF on infant HIV rates.}
+\title{Clean up and share some health data from UNICEF.}
 \description{
-Clean up and share some data from UNICEF on infant HIV rates.
+Clean up and share some health data from UNICEF.
 }
 \author{
 Greg Wilson, \email{gvwilson@third-bit.com}
